@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import com.google.gson.GsonBuilder;
-import com.google.gson.GsonBuilder;
 public class TestChain {
 	
 	public static ArrayList<Block> blockchain = new ArrayList<Block>();
